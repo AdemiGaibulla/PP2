@@ -3,6 +3,8 @@ while i < 6:
   print(i)
   i += 1
 
+print("\n")
+
 
 i = 1
 while i < 6:
@@ -11,6 +13,8 @@ while i < 6:
     break
   i += 1
 
+print("\n")
+
 
 i = 0
 while i < 6:
@@ -18,6 +22,8 @@ while i < 6:
   if i == 3:
     continue
   print(i)
+
+print("\n")
 
 
 i = 1
